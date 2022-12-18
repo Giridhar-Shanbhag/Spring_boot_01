@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Giridhar
+Build-Jdk: 9.0.1
+Implementation-Title: Java Brains Flights
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.javabrains.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Booking_flig
+ hts_api/
+Created-By: Maven Integration for Eclipse
+
